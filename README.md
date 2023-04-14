@@ -2,9 +2,9 @@
 A dark Vaporwave Theme for the discord client written in CSS
 In my case the theme is used in Firefox with an addon called Stylus.
 
-**This tutorial is telling you how to manually install the theme in your browser!**
+~~**This tutorial is telling you how to manually install the theme in your browser!
 
-**Step 1: Getting stylus**
+**Step 1: Getting stylus
 
 Stylus can be gotten here:
 
@@ -14,17 +14,17 @@ Chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfob
 
 Opera: https://addons.opera.com/en/extensions/details/stylus/
 
-**Step 1.5: Getting the theme from Userstyles**
+**Step 1.5: Getting the theme from Userstyles
 
 If you want to skip ahead and get the style from userstyles.com, open this page this theme may be an outdated version, but I want to make sure to keep it updated.
 
 If you want to install it manually, ignore this and go ahead with step 2
 
-Step 2: Opening discord.com/app
+**Step 2: Opening discord.com/app
 
 After you installed the addon, go to the official discord website https://discord.com/app
 
-Step 3: Opening the addon and the theme creator
+**Step 3: Opening the addon and the theme creator
 
 Once you went onto https://discord.com/app, you need to open Stylus by clicking onto the extensions button, which will differ from browser to browser.
 
@@ -57,4 +57,4 @@ Now if you want to disable the theme, you can easily repeat Step 2, this time it
 To enable it, just tick the box, to disable it, untick the box, that's it!
 If it works you're done!
 
-Step 4: Enjoy the theme, 
+**Step 4: Enjoy the theme and report problems if you find any ^^
