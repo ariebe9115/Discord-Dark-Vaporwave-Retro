@@ -2,7 +2,7 @@
 A dark Vaporwave Theme for the discord client written in CSS
 In my case the theme is used in Firefox with an addon called Stylus.
 
-~~**This tutorial is telling you how to manually install the theme in your browser!
+~~This tutorial is telling you how to manually install the theme in your browser!
 
 **Step 1: Getting stylus
 
