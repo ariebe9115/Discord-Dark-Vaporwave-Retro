@@ -4,7 +4,7 @@ In my case the theme is used in Firefox with an addon called Stylus.
 
 ~~This tutorial is telling you how to manually install the theme in your browser!~~
 
-**Step 1: Getting stylus
+**Step 1: Getting stylus**
 
 Stylus can be gotten here:
 
